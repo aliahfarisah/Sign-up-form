@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/aliahfarisah/Sign-up-form)
-- Live Site URL: [Add live site URL here]((https://aliahfarisah.github.io/Sign-up-form/))
+- Solution URL: [(https://github.com/aliahfarisah/Sign-up-form)]
+- Live Site URL:[(https://aliahfarisah.github.io/Sign-up-form/)]
 
 ## My process
 
